@@ -1,5 +1,5 @@
-@import url("../fonts/poppins/poppins.css");
-@import url("../icons/lineawesome/css/line-awesome.min.css");
+@import url("../vendor/fonts/poppins/poppins.css");
+@import url("../vendor/icons/lineawesome/css/line-awesome.min.css");
 
 :root
 {
