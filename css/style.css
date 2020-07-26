@@ -3,8 +3,12 @@
 
 :root
 {
-    --theme-color: #ff8800;
-    --theme-color-dark: #dd6600;
+    --color-orange: #ff8800;
+    --color-orange-dark: #dd6600;
+    --color-blue: #007bee;
+    --color-blue-dark: #0059cc;
+    --color-green: #559b47;
+    --color-green-dark: #337925;
     --font-family: "Poppins", sans-serif;
     --font-size-global: 11pt;
     --font-size-medium: 0.85rem;
@@ -13,7 +17,6 @@
     --doc-width-us-letter: 216mm;
     --color-gray-top: #f2f2f2;
     --color-gray-bottom: #fafafa;
-
 }
 
 * 
@@ -55,6 +58,24 @@ html, body
 .resume.resume_us-letter
 {
     width: var(--doc-width-us-letter);
+}
+
+.resume.resume-orange
+{
+    --theme-color: var(--color-orange);
+    --theme-color-dark: var(--color-orange-dark);
+}
+
+.resume.resume-blue
+{
+    --theme-color: var(--color-blue);
+    --theme-color-dark: var(--color-blue-dark);
+}
+
+.resume.resume-green
+{
+    --theme-color: var(--color-green);
+    --theme-color-dark: var(--color-green-dark);
 }
 
 
