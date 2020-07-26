@@ -1,5 +1,7 @@
 # SimpleResume
 
+Read in another language: English | [Italiano](README.it.md)
+
 ![Preview](/res/screen.png)
 
 Simple and clean resume/CV template. Fully customizable.
@@ -7,7 +9,7 @@ Made with open-source third-part components as
 - Poppins Google Font
 - LineAwesome Icons
 
-All these components are places in the `/vendor` folder. Each component is licences by itself.
+All these components are placed in the `/vendor` folder. Each component is licences by itself.
 
 ## Document Colors
 
