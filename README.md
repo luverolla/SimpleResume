@@ -19,6 +19,7 @@ This templates comes with three base colors: <var>orange</var>, <var>blue</var> 
 :root
 {
     /* other colors and variables */
+    
     --color-red: #f00;
     --color-red-dark: #d00;
 }
@@ -37,7 +38,7 @@ The theme color will be applied automatically once the class `.resume-red` is ad
 
 ## Document sizes
 
-There are two CSS classes to represent two different document sizes
+There are two CSS classes to represent document sizes:
 - `.resume_iso-a4` for "A4" paper size (210 &times; 297 mm), as described in ISO standard.
 - `.resume_us-letter` for "US Letter" paper size (216 &times; 297 mm), as described in american standard. Can be used for "US Legal" size too.
 
